@@ -21,7 +21,7 @@ export default function AccountPlanningPage() {
   return (
     <div>
       <PageHeader
-        title="Account Planning"
+        title="Account Planning(teste)"
         description="Visão consolidada por conta, pronta para análise no Power BI."
         action={<Button>+ Novo Account Planning</Button>}
       />
